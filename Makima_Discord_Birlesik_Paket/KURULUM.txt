@@ -1,0 +1,14 @@
+MAKIMA DISCORD — SON PAKET
+
+PAKET İÇERİĞİ
+- discord-makima-video-arka-plan.css: Son tema kodu; üye kategorileri ortalı ve dekorlu, hover adı taşması düzeltilmiş.
+- MakimaVideoBackground.plugin.js: Tam ekran video ve yaprak katmanı; fare gecikmesini azaltan gözlemci ve üye hover yönetimi dahil.
+- makima-motion-upscaled.webp: Arka plan fotoğrafı.
+- makima-discord-fullscreen-1080p.mp4: Video dosyası. Eklentinin oynattığı video ayrıca eklentinin içine gömülüdür.
+
+KURULUM
+1. MakimaVideoBackground.plugin.js dosyasını BetterDiscord Plugins klasörüne kopyala.
+2. Discord Ayarları > Eklentiler bölümünden eklentiyi etkinleştir.
+3. CSS veya eklenti değişikliğinden sonra Discord'u Ctrl+R ile yenile; eklenti kodu değiştiyse eklentiyi kapatıp aç.
+
+Not: WEBP fotoğrafı ayrı görsel varlığıdır; aktif arka planı eklenti içindeki MP4 sağlar.
